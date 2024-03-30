@@ -5,8 +5,8 @@ Please fill in the template below. Some suggestions have been provided to help y
 Before submission, please replace the suggestions (in italics) with your answers. You can keep the prompts though.
 
 ### Project Name: digital-tech-news-corporation
-### Team Name, Team Number: _Enter team name and number who the project belongs to_
-### Github Link: _Enter the github link to the project_
+### Team Name, Team Number: Deliverable, Team 15
+### Github Link: https://github.com/csc301-2024-s/deliverable-1-15-digital-tech-news-corporation
 
 ### Project Summary:
 _Provide a short summary of the project. Capture details like what problem it aims to solve and what are the key contributions of the project._
