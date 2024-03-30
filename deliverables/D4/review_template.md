@@ -4,7 +4,7 @@ Please fill in the template below. Some suggestions have been provided to help y
 
 Before submission, please replace the suggestions (in italics) with your answers. You can keep the prompts though.
 
-### Project Name: _Enter project name_
+### Project Name: digital-tech-news-corporation
 ### Team Name, Team Number: _Enter team name and number who the project belongs to_
 ### Github Link: _Enter the github link to the project_
 
