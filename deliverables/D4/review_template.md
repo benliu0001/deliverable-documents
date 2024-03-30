@@ -9,7 +9,12 @@ Before submission, please replace the suggestions (in italics) with your answers
 ### Github Link: https://github.com/csc301-2024-s/deliverable-1-15-digital-tech-news-corporation
 
 ### Project Summary:
-_Provide a short summary of the project. Capture details like what problem it aims to solve and what are the key contributions of the project._
+The organization, trying to output an increasing volume of news articles, seeks to utilize generative AI to solve this through the application the students have developed.
+The application is a backend system for staff at the Daily Scrum News to quickly generate models that are used to generate news articles automatically at regular intervals based on location and topic from web-scraped data.
+The group contributed to the application by automating model creation and deployment processes, adding a system to add source articles directly to an AI-generated news article, optimizing API token usage by reducing 
+the number of API calls, and improving on the UI.
+
+
 
 ### Introduction & Overview of the problem and the product:
 _* Were you able to understand clearly the problem that the project is trying to solve?_
