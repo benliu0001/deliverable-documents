@@ -17,29 +17,18 @@ the number of API calls, and improving on the UI.
 
 
 ### Introduction & Overview of the problem and the product:
-_* Were you able to understand clearly the problem that the project is trying to solve?_
 
-_* Were you able to get an overview of what the project is about?_
-
-_* Were you able to differentiate what the project does and how it differs from existing or prior work?_
-
-_* Any points that would have helped you to get more information on this subject?_
-
+It isn't immediately clear why the system is in need in the first place. AI-generated news generally suffers from inaccuracies and data hallucinations. In other words, there may be alternate ways to produce more content that doesn't involve AI, and these non-AI methods may be significantly more accurate than AI approaches. This has become a problem in recent years, with lawyers having their cases dismissed due to similar uses of AI, so the proliferation of AI in journalism like this may harm the journalistic integrity of the organization using AI.
+It is relatively straightforward to parse an overview of the project; the README clearly outlines each feature developed and what role each feature plays within the larger product.
+It is easy to differentiate what the project does and how it differs from existing or prior work; each feature mentioned is either self-contained or specifically improves on existing features in specific ways.
+It would be helpful to include a short description of why the organization wants to use AI in this particular way. It is unclear whether or not the AI journalists would have their names shown or if they would be differentiated as AI journalists. It could be misleading to viewers of AI-generated articles if there is no such differentiation.
 ### Demo of the application:
-_* Were the ideas presented in the demo clear and easy to understand?_
-
-_* Did the team demonstrate all the key features of their application in the demo?_
-
-_* Did the demo help you in forming a good understanding of the application?_
-
-_* Any points that would have helped you to get more information on this subject?_
-
+The ideas presented in the demo were entirely clear and easy to understand.
+The demo demonstrated all key features clearly and concisely, and it helped me understand where the product belongs in the wider project.
 ### Technical Discussion & Key Learnings:
-_* Were you able to understand the technical aspects of the project?_
-
-_* Do the key learnings presented by the team make sense, are concrete and achievable, and will help to improve the project?_
-
-_* Any points that would have helped you to get more information on this subject?_
+The technical aspects of the project are difficult to understand and are not immediately clear. It isn't explained how API token usage was optimized, and the prompt engineering with the API was entirely obscured. Additionally, the exact technologies used, their systems and structure, and how they were used were neither in the demo nor the readme.
+The key learnings presented by the team make sense from a retrospective point of view, though they are a bit vague. It isn't elaborated on what specifically the team had trouble with, only that some trouble or difficulties with certain technologies existed. 
+Greater explanations in this regard would be very helpful.
 
 ### Project Documentation:
 _* Was the project readme easy to follow and gives all the necessary details about the project?_
